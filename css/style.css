@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'gt_sectra_displaylight';
+    src: url('../font/gt-sectra-display-light-webfont.woff2') format('woff2'),
+    url('../font/gt-sectra-display-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'maison_neuelight';
+    src: url('../font/maisonneuelight-webfont.woff2') format('woff2'),
+    url('../font/maisonneuelight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'maison_neuebook';
+    src: url('../font/maisonneue-book-webfont.woff2') format('woff2'),
+    url('../font/maisonneue-book-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.gallery img {
+    width: 100%;
+}
